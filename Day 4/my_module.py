@@ -1,0 +1,1 @@
+fav_nummber = 120
