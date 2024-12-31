@@ -44,5 +44,3 @@ if bid_memory:  # Check if there are any bids
     print(f"The winner is {winner} with a bid of ${winning_bid}.")
 else:
     print("No bids were placed.")
-
-
